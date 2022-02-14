@@ -38,6 +38,7 @@ This is table of content of Foundation skills for Software Development Engineer.
 - Branching & Merge strategies
 - Code review process
 - Code refactoring
+- Build Github portfolio
 - Exercises
 - Goal: You will able understand system from developer point of view and you will work as developers
 
