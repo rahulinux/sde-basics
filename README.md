@@ -1,9 +1,9 @@
 # SDE-basics
 
-> Fees: will be 15K
-> Duration: 4 months
-> Only on every Sunday 10:30 AM IST
-> Get all refund, if you don't see any benefits
+> - Fees: will be 15K
+> - Duration: 4 months
+> - Every Sunday 10:30 AM IST
+> - Get all refund, if you don't see any benefits
 
 ## Overview
 
