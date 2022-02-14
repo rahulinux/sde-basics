@@ -26,6 +26,7 @@ This is table of content of Foundation skills for Software Development Engineer.
 - What is DevOps and What is Not
 - DevOps principles
 - Day to Day responsibilities
+- Work Culture
 
 ## SE basics
 
