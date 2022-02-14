@@ -1,5 +1,10 @@
 # SDE-basics
 
+> Fees: will be 15K
+> Duration: 4 months
+> Only on every Sunday 10:30 AM IST
+> Get all refund, if you don't see any benefits
+
 ## Overview
 
 This is table of content of Foundation skills for Software Development Engineer.
