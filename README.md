@@ -60,6 +60,22 @@ This is table of content of Foundation skills for Software Development Engineer.
 - Build & Host Docker registry server
 - Goal: You will able to Build & Ship your own App
 
+### CI/CD 
+
+- Why & What ? 
+- GitOps
+- Concepts 
+- Self hosted CICD
+- Cloud CICD 
+- How to manage multiple environments (Prod, Staging, Dev) 
+- How to Integrate with Source Control (Github)
+- How to integrate with Cloud (AWS)
+- It will cover use cases: 
+  - App with Lambda
+  - re-usable plugins using containers 
+  - Manage Infrastructures
+
+
 
 ## Kubernetes (Application Developer)
 
@@ -101,7 +117,6 @@ This is table of content of Foundation skills for Software Development Engineer.
 - How to manage multiple environments (Prod, Staging, Dev)
 - How to manage large cluster environment using terragrunt
 - Goal: Gain expertise to handle any cloud infra automation and deployments.
-
 
 ## Interview process
 - Job Market & Interview process in Europe & India
