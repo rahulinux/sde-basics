@@ -122,7 +122,7 @@ This is table of content of Foundation skills for Software Development Engineer.
 ## Interview process
 - Job Market & Interview process in Europe & India
 - Theory interview questions
-- Practical Assignments
+- Practical Assignments (THA)
 - Goal: Learn & gain confidence in interview anywhere in the world!
 
 
