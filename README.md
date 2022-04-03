@@ -40,6 +40,7 @@ This is table of content of Foundation skills for Software Development Engineer.
 - How this works?
 - Important terminology
 - How to work like Developer using git
+- Rewrite 
 - Markdown tips and Documentation
 - Branching & Merge strategies
 - Code review process
@@ -123,3 +124,5 @@ This is table of content of Foundation skills for Software Development Engineer.
 - Theory interview questions
 - Practical Assignments
 - Goal: Learn & gain confidence in interview anywhere in the world!
+
+
